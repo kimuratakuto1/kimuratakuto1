@@ -23,6 +23,12 @@
 - 完了したタスクから自然な文章で日報を生成
 - [リポジトリを見る](https://github.com/kimuratakuto1/daytaskrepomanage)
 
+### プロフィールサイト
+- 自己紹介
+- お問い合わせフォーム（実際にメールが送信できます）
+- Stripeの実験的な実装
+- ブログ（競技プログラミング）
+- [プロフィールサイトを見る](https://kimuratakuto1.github.io/myprofile/index.html)
 ---
 
 ## 🗕 最近の活動
