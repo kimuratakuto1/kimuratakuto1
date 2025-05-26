@@ -21,6 +21,7 @@
 
 - ChatGPT APIを用いた日報自動生成機能付き
 - 完了したタスクから自然な文章で日報を生成
+- お問合せフォーム（メールでお問い合わせ可能）
 - [リポジトリを見る](https://github.com/kimuratakuto1/daytaskrepomanage)
 
 ### プロフィールサイト
