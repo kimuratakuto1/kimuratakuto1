@@ -1,42 +1,29 @@
 
 # 👋 こんにちは、木村拓人です！
 
-~~私は現在、ITエンジニアを目指して学習中の元製造業エンジニアです。~~主に **Python**, **Django**, **Java** を中心に学び、日々、Webアプリケーションの開発に取り組んでいます。
+~~私は現在、ITエンジニアを目指して学習中の元製造業エンジニアです。~~
+→無事、転職成功？しました。とある企業のシステムエンジニアとして働いています。
+
+業務スキルとしては、PowerAppsやintra-martといったローコードツールを用いた開発をしています。
+Pythonも少し触っています。
 
 ---
 
 ## 🛠 使用スキル・学習中
-
+転職前
 - Python / Django
 - Java / Spring Boot（学習中）
 - HTML / CSS / JavaScript（基礎）
 - Git / GitHub
 - SQL / データベース（SQLite, H2）
 
----
-
-## 📌 主な成果物（ポートフォリオ）
-
-### 🗂 タスク管理アプリ（Django + OpenAI API）
-
-- ChatGPT APIを用いた日報自動生成機能付き
-- 完了したタスクから自然な文章で日報を生成
-- お問合せフォーム（メールでお問い合わせ可能）
-- [リポジトリを見る](https://github.com/kimuratakuto1/daytaskrepomanage)
-
-### プロフィールサイト
-- 自己紹介
-- お問い合わせフォーム（実際にメールが送信できます）
-- Stripeの実験的な実装
-- ブログ（競技プログラミング）
-- [プロフィールサイトを見る](https://kimuratakuto1.github.io/myprofile/index.html)
+転職後
+- ポケモンカード
+  
 ---
 
 ## 🗕 最近の活動
 
-- GitHub上で継続的に学習成果をコミット中（"草"を育成中）
-- 個人開発プロジェクトを進行中
-- ChatGPT API連携やデプロイの経験を積みながらスキルを強化
 
 ---
 
@@ -46,5 +33,3 @@
 - 🏠 ホームページ: [https://kimuratakuto1.github.io/myprofile/index.html](https://kimuratakuto1.github.io/myprofile/index.html)
 
 ---
-
-> “毎日1つ成長することを目指して、継続中です！”
